@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ungooliever.md",
+                "file": "Notable Charaters/Ungooliever.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ungooliever.md",
+                "file": "Notable Charaters/Ungooliever.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ungooliever.md",
+                "file": "Notable Charaters/Ungooliever.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ungooliever.md"
+                "file": "Notable Charaters/Ungooliever.md"
               }
             }
           }
@@ -148,9 +148,20 @@
   },
   "active": "474d90ea3dc3e1b3",
   "lastOpenFiles": [
+    "Art/Ungooliever.png",
+    "Art/The Doctor.png",
+    "Notable Charaters/Ungooliever.md",
+    "Notable Charaters/The Doctor.md",
+    "Art",
+    "Background information/Weapons.md",
+    "Background information/GOO8 Units.md",
+    "GOO8.md",
+    "Ungooliever.md",
+    "Notable Charaters",
+    "Background information/Background about the Goobers.md",
+    "Background information",
     "Weapons.md",
     "GOO8 Units.md",
-    "Ungooliever.md",
     "Background about the Goobers.md",
     "test.md"
   ]
