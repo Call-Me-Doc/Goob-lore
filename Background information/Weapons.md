@@ -8,4 +8,5 @@ Bows on the other hand, are a little more complicated. instead of using a standa
 
 Larger implements of war follow a similar path, with weapons such as ballistas shooting plasma, just in larger quantites and much deadlier.
 
-weapons that never needed the discovery of gunpowder, such as flamethrowers, do exist. A weapon that can go "fuck everything in that general direction" is always a helpful tool, espcially when said fire is burning over 3,400ºC.
+Weapons that never needed the discovery of gunpowder, such as flamethrowers, do exist. A weapon that can go "fuck everything in that general direction" is always a helpful tool, espcially when said fire is burning over 3,400ºC.
+
