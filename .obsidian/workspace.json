@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notable Groups/STDD.md",
+                "file": "Notable Charaters/Ungooliever.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d401dabcfbe12074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notable Groups/GOO8ER.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notable Groups/STDD.md",
+                "file": "Notable Groups/GOO8ER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notable Groups/STDD.md",
+                "file": "Notable Groups/GOO8ER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notable Groups/STDD.md"
+                "file": "Notable Groups/GOO8ER.md"
               }
             }
           }
@@ -159,20 +171,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8fd0047ce189eb8",
+  "active": "d401dabcfbe12074",
   "lastOpenFiles": [
-    "Notable Charaters/Venti.md",
-    "Notable Groups/STDD.md",
-    "Notable Charaters/Ominous.md",
-    "Notable Charaters/Ungooliever.md",
+    "Notable Charaters/Noober.md",
     "Notable Groups/GOO8ER.md",
+    "Background information/Weapons.md",
+    "Art/Noober.png",
+    "Background information/GOO8 Units.md",
+    "Notable Charaters/Ominous.md",
+    "Notable Charaters/Venti.md",
+    "Notable Charaters/Ungooliever.md",
+    "Art/Venti.png",
+    "Art/waffler.png",
+    "Art/Ungooliever.png",
+    "Art/Ominous.png",
+    "Art/Joobersilent.png",
+    "Art/Just in Goob.png",
+    "Art/The Doctor.png",
+    "Notable Groups/STDD.md",
     "Notable Groups/STD.md",
     "Notable Charaters/The Doctor.md",
-    "Art/Ungooliever.png",
-    "Art/The Doctor.png",
-    "Art/Ominous.png",
-    "Background information/Weapons.md",
-    "Background information/GOO8 Units.md",
     "Background information/Background about the Goobers.md",
     "Notable Groups",
     "Art",
