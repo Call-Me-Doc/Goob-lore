@@ -1,4 +1,5 @@
 - sci-fi setting
+	- cyberpunk if the outlook on life was a little better, and people only got cybernetics when they actually needed them
 	- medevil weapons tho
 - hair is screens
 	-  can display anything, typically a symbol representing them
