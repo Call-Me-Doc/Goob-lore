@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20f6271b996efd9e",
+            "id": "474d90ea3dc3e1b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db7e4b6efc0c26d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Background about the Goobers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40cf077befd68f93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weapons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b695343979d1edf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weapons.md",
+                "file": "Ungooliever.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weapons.md",
+                "file": "Ungooliever.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weapons.md",
+                "file": "Ungooliever.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weapons.md"
+                "file": "Ungooliever.md"
               }
             }
           }
@@ -183,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b695343979d1edf0",
+  "active": "474d90ea3dc3e1b3",
   "lastOpenFiles": [
-    "Background about the Goobers.md",
-    "GOO8 Units.md",
     "Weapons.md",
+    "GOO8 Units.md",
+    "Ungooliever.md",
+    "Background about the Goobers.md",
     "test.md"
   ]
 }
