@@ -1,0 +1,5 @@
+- sci-fi setting
+	- medevil weapons tho
+- hair is screens
+	-  can display anything, typically a symbol representing them
+		- will sometimes be other things, such as objects they like
