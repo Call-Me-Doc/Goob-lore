@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"type":"text","text":"In an experimental GOO- under the care of STDD, helping humans, chance for STDD to be lying to PC, and becoming and enemy","id":"7bafcf08d051cbfb","x":80,"y":-60,"width":320,"height":120,"color":"5"},
+		{"type":"text","text":"In a broken down GOO- unit, but rescued by Doc. most exposition potential, as well as the ability to do small quests for them to get to know the area and factions","id":"df6cf91235ce096d","x":80,"y":60,"width":320,"height":160,"color":"4"},
+		{"type":"text","text":"In a normal GOO-, most open paths, could change the most","id":"a136cd590c50bcb3","x":80,"y":-140,"width":320,"height":80,"color":"3"},
+		{"type":"text","text":"PC wakes up","id":"c3d4c527ce87d4ad","x":-200,"y":-30,"width":150,"height":60},
+		{"type":"text","text":"STDD is a megacorp, and Doc is one being, STDD could mod your GOO- as well, but for more money, but is widely available, but Doc is cheaper, but only in one place","id":"f9c4481771c4522a","x":480,"y":-420,"width":340,"height":160,"color":"4"},
+		{"type":"text","text":"Find out, side with Unb","id":"bc9db8f9efe6b808","x":570,"y":-60,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"Dont Find out, stick with STDD","id":"707f8accf4659542","x":570,"y":0,"width":250,"height":60,"color":"5"},
+		{"type":"text","text":"sources of money:\n1. help doc with errands\n2. part time job at the Waffler House\n3. clean a random druggie's house, end up being paid wayy to much, and end up being hunted by them? end up getting help from GOO8ER","id":"9d34b2961900beea","x":570,"y":140,"width":350,"height":250},
+		{"type":"text","text":"opens up questline to get more spaces for Doc Qualified modders, and make it more available in places the PC frequents","id":"82050ca217f9833a","x":840,"y":-400,"width":300,"height":120,"color":"4"},
+		{"type":"text","text":"Idea: strong enough willpower, and getting attacked by Ominous leads to a deal being stricken, and PC gains their favor and some power(?)","id":"02a28485f16773cb","x":80,"y":-440,"width":280,"height":160,"color":"6"},
+		{"id":"41c4b470157def7b","x":-525,"y":-430,"width":250,"height":310,"color":"6","type":"text","text":"Mental Stats:\n- smarts\n\t- general smarts, hacking, etc.\n- speech\n-  weapon skill"},
+		{"id":"af6650eb98a6e9fa","x":-775,"y":-430,"width":250,"height":310,"color":"1","type":"text","text":"Physical Stats:\n\n- brute strength\n-  dexterity / finesse\n- speed\n- health\n- perception\n\t- the eyes can get fucked up, after all..."}
+	],
+	"edges":[
+		{"id":"cd69cfc84d9ada1b","fromNode":"c3d4c527ce87d4ad","fromSide":"right","toNode":"a136cd590c50bcb3","toSide":"left"},
+		{"id":"58b1f1a2740456b1","fromNode":"c3d4c527ce87d4ad","fromSide":"right","toNode":"7bafcf08d051cbfb","toSide":"left"},
+		{"id":"e80fc21237f9083b","fromNode":"c3d4c527ce87d4ad","fromSide":"right","toNode":"df6cf91235ce096d","toSide":"left"},
+		{"id":"2be12caedb8b9366","fromNode":"7bafcf08d051cbfb","fromSide":"right","toNode":"bc9db8f9efe6b808","toSide":"left","color":"1"},
+		{"id":"9f7deabb28d5f67e","fromNode":"7bafcf08d051cbfb","fromSide":"right","toNode":"707f8accf4659542","toSide":"left","color":"5"},
+		{"id":"f5684a6c25088ee5","fromNode":"f9c4481771c4522a","fromSide":"right","toNode":"82050ca217f9833a","toSide":"left","color":"4"},
+		{"id":"d0af09c61760aa84","fromNode":"df6cf91235ce096d","fromSide":"right","toNode":"9d34b2961900beea","toSide":"left"},
+		{"id":"5d978bf1eb5b01fb","fromNode":"a136cd590c50bcb3","fromSide":"right","toNode":"9d34b2961900beea","toSide":"left"}
+	]
+}

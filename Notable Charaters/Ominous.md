@@ -1,1 +1,4 @@
-A "Sentient" entity that seems to only appear to utterly destroy Sentient GOO- units, by entirely eradicating any trace of the GOO-'s code in the Cloud, trapping the unit in its body with no chance of escape and destroying the body it, and it's victim, inhabits. The only way to prevent this is to entirely remove the GOO-'s access to any form of outside communication before the body is destroyed, which is neigh impossible in this day and age.
+A "Sentient" entity that seems to only appear to utterly destroy Sentient GOO- units, by entirely eradicating any trace of the GOO-'s code in the Cloud, trapping the unit in its body with no chance of escape and destroying the body it, and it's victim, inhabits. There are 3 ways to prevent this from happening: 
+1. Entirely remove the GOO-'s access to any form of outside communication before the body is destroyed, which is neigh impossible in this day and age.
+2.  Hold the body down until it gives up and lets the GOO- live
+3. The GOO unit itself being so damn filled with willpower to the point it can fight it off in their mind.
