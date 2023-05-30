@@ -11,15 +11,19 @@
 		{"type":"text","text":"Physical Stats:\n\n- brute strength\n-  dexterity / finesse\n- speed\n- health\n- perception\n\t- the eyes can get fucked up, after all...","id":"af6650eb98a6e9fa","x":1235,"y":-660,"width":290,"height":455,"color":"1"},
 		{"type":"text","text":"Mental Stats:\n- smarts\n\t- general smarts, hacking, etc.\n- speech\n-  weapon skill\n- willpower\n\t- determines how long you can stay in a fucked up body  (negative health?)\n\t- how fast you can swap bodies","id":"41c4b470157def7b","x":1528,"y":-660,"width":325,"height":455,"color":"6"},
 		{"type":"text","text":"In a normal GOO-, most open paths, could change the most","id":"a136cd590c50bcb3","x":80,"y":-20,"width":320,"height":80,"color":"3"},
-		{"id":"f4134a5c241c838c","x":960,"y":-660,"width":220,"height":60,"type":"text","text":"\"they're stupid faster\""},
-		{"id":"5864c1b0c45cd13d","x":1000,"y":410,"width":280,"height":130,"color":"5","type":"text","text":"- discounts on mods?\n- forced into working standard hours, using up a time slot in advance "},
+		{"type":"text","text":"\"they're stupid faster\"","id":"f4134a5c241c838c","x":960,"y":-660,"width":220,"height":60},
+		{"type":"text","text":"- discounts on mods?\n- forced into working standard hours, using up a time slot in advance ","id":"5864c1b0c45cd13d","x":1000,"y":410,"width":280,"height":130,"color":"5"},
 		{"type":"text","text":"PC wakes up","id":"c3d4c527ce87d4ad","x":-160,"y":110,"width":150,"height":60},
 		{"type":"text","text":"sources of money:\n1. help doc with errands\n2. part time job at the Waffler House\n3. clean a random drug dealer's house\n4. Work as a clerk for STDD","id":"9d34b2961900beea","x":420,"y":40,"width":350,"height":200},
 		{"type":"text","text":"talked to by random nobody after getting sorted, reccomended PC talks to doc to get the lay of the land","id":"64fbc1b82ff2b7d2","x":480,"y":-221,"width":290,"height":130,"color":"4"},
 		{"type":"text","text":"end up getting sorted by old owner, sent on way to STDD","id":"c9c696475b5c8422","x":205,"y":-206,"width":250,"height":100,"color":"5"},
-		{"id":"1c4940636f874778","x":800,"y":-190,"width":250,"height":69,"color":"5","type":"text","text":"at place, is recommended to work for them"},
+		{"type":"text","text":"at place, is recommended to work for them","id":"1c4940636f874778","x":800,"y":-190,"width":250,"height":69,"color":"5"},
 		{"type":"text","text":"get set up with them, and recommended PC meets Doc to have some mods installed to make them more \"combat ready\"","id":"d5a514b422556a54","x":1320,"y":270,"width":330,"height":140,"color":"4"},
-		{"id":"60ce4fdaa8d5633f","x":1853,"y":-660,"width":427,"height":455,"type":"text","text":"List Of Potential Mods:\n\n1. "}
+		{"type":"file","file":"Lore Thunking/List Of Mods.md","id":"ca3616838c50a203","x":1853,"y":-660,"width":507,"height":455,"subpath":"#Eyes"},
+		{"type":"file","file":"Lore Thunking/List Of Mods.md","id":"55b62dc46b89f99e","x":2360,"y":-660,"width":507,"height":455,"subpath":"#Body"},
+		{"type":"file","file":"Lore Thunking/List Of Mods.md","id":"1861c076575c786b","x":2867,"y":-660,"width":507,"height":455,"subpath":"#Arm"},
+		{"type":"file","file":"Lore Thunking/List Of Mods.md","id":"60b0497a9dc8a98a","x":3374,"y":-660,"width":507,"height":455,"subpath":"#Legs"},
+		{"type":"file","file":"Lore Thunking/List Of Mods.md","id":"9722079a1961edc9","x":3881,"y":-660,"width":507,"height":455,"subpath":"#Back"}
 	],
 	"edges":[
 		{"id":"cd69cfc84d9ada1b","fromNode":"c3d4c527ce87d4ad","fromSide":"right","toNode":"a136cd590c50bcb3","toSide":"left"},
