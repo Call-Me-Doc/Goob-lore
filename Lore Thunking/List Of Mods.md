@@ -1,11 +1,30 @@
 # Eyes:
-- 
+- Image Enhancement (3 tiers) - available anywhere
+	- *Increasing the resolution of the cameras in the eyes lets you see significantly better.*
+	- increases Perception, more each tier
++ Telescopic Vision - available anywhere
+	+ *See things from a greater distance by zooming in your eyes.*
+	+ allows up to 12x magnification
++ Antiflash - available anywhere
+	+ *Protects from being blinded by strong lights or flashbangs.*
+	+ just as advertised
++ Microscopic Vision - available only from STDD
+	+ *Microscopes built right into your eyes.*
+	+ allows microscopic vision at will
 
 # Body:
 - Enhanced Armor Plating (3 tiers) - available anywhere
 	- *A stronger outer shell means you can take more punishment before going down.*
 	- gives more health, more each tier
-- 
+- Insulated Plating (5 tiers) - available anywhere
+	- *Insulation beneath the outer plating makes heat a non-issue.*
+	- protects from heat, more each tier, can even protect from plasma-based attacks partially at higher tiers
++ Upgraded Firewalls (3 tiers) - on;y available from Doc
+	+ *By upping the available memory stronger encryptions can be genrerated.*
+	+ makes it harder to hack into you, the highest tier can even detriment Ominous somewhat
++ Chameleon Plating - Unique
+	+ *Originally intended for military use, this high end mod is occasionally seen in the hands of police in areas with higher crime rates.*
+	+ lets you almost seemlessly blend in with your background at a moment's notice
 
 # Arm:
 - Hidden Blade - only available from GOO8ER ^08a9fd
