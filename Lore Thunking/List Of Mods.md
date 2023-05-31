@@ -37,7 +37,9 @@
 	- Allows you to grab onto basically anything under 10 tiles away, including enemies, and drag them into melee range. If its too heavy, you go to it.
 
 # Legs:
-- 
+- Maglegs - available anywhere
+	- *Stick to walls like spiderman with magnets in your feet!*
+	- downside is it's loud as fuck and only works on magnetic material
 
 # Back: 
 (the back slot on goobers, like wings / tails and shit)
