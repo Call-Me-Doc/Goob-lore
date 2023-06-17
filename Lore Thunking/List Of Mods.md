@@ -49,4 +49,18 @@
 	- prehensile tail, capable of stabbing shit, or grabbing stuff
 - Fox tail
 	- *mostly for aesthetics, but can be additionally modded to hold things on your person*
+- Extra Ear Compartments
+	- *clears out some unnecessary components from your upper back, allowing to to act as a storage area for extra ears. go nuts you freaks*
+	- removes limits on ears, to a point
+
+# Ears:
+(its the fucking ears you morons, how would forget)
+- 8UNN*/
+	- bunny ears, can work as an emergency blade, or as an angry swarm of bees if you have a bunch
+- C4T
+	- Cat Ears, the weebs will like these
+- H07NS
+	- work as emergency close range blunt weapons (you headbutt them you moron)
+	- also work as tools for climbing, when needed (imagine ice picks, but they live on your head)
 - 
+ 
