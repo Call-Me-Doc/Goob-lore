@@ -56,9 +56,12 @@
 # Ears:
 (its the fucking ears you morons, how would forget)
 - 8UNN*/
-	- bunny ears, can work as an emergency blade, or as an angry swarm of bees if you have a bunch
-- C4T
-	- Cat Ears, the weebs will like these
+	- bunny ears, can work as an emergency blade.
+	-  +2 to overall damage when used
+	- -1 to speech when speaking with those experienced in the underworld's doing, as they know those are weapons. (this is basically any Synth who's been around awhile.)
+- 3AR5
+	- General Animal Ears, the weebs will like these.
+	- +3 to speech, as people are willing to let some things slide for a cutie like you
 - H07NS
 	- work as emergency close range blunt weapons (you headbutt them you moron)
 	- also work as tools for climbing, when needed (imagine ice picks, but they live on your head)
