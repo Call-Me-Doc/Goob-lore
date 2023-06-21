@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore Thunking/List Of Mods.md",
+                "file": "Lore Thunking/Weapons.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore Thunking/List Of Mods.md",
+                "file": "Lore Thunking/Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore Thunking/List Of Mods.md",
+                "file": "Lore Thunking/Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore Thunking/List Of Mods.md"
+                "file": "Lore Thunking/Weapons.md"
               }
             }
           }
@@ -173,11 +173,14 @@
   },
   "active": "d401dabcfbe12074",
   "lastOpenFiles": [
+    "Background information/Weapons.md",
+    "Background information/GOO8 Units.md",
     "Lore Thinking.canvas",
+    "Lore Thunking/Weapons.md",
     "Lore Thunking/List Of Mods.md",
     "Notable Charaters/Noober.md",
+    "Art/waffler.png",
     "Art/Ungooliever.png",
-    "Background information/GOO8 Units.md",
     "Lore Thunking",
     "Notable Charaters/Ominous.md",
     "Notable Charaters/Venti.md",
@@ -185,10 +188,8 @@
     "Notable Charaters/The Doctor.md",
     "Notable Groups/STDD.md",
     "Notable Groups/GOO8ER.md",
-    "Background information/Weapons.md",
     "Art/Noober.png",
     "Art/Venti.png",
-    "Art/waffler.png",
     "Art/Ominous.png",
     "Art/Joobersilent.png",
     "Art/Just in Goob.png",
