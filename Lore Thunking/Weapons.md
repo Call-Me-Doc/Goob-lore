@@ -4,10 +4,10 @@ These dont lower your movement speed, but usually deal less damage
 	- *hey, its your ears!*
 	- +2 damage, one for each blade
 	- on a crit, deal x4 damage [common with daggers, since you need to get right on top of an enemy]
-	- Cannot crit
 + Grenade
 	+ *Throw a grenade to explode or incapacitate your enemy.*
 	+ Flat 10 damage in a small area on plasma explosion variety [it's basically a mini sun and also used up on use] and 0 damage on emp variety, but temporarily messes up electronics and knocks out [[GOO8 Units]] in a small area
+	+ Cannot crit
 
 # Medium
 Reduces the speed of the weaker available GOO- models, and deal average damage. [what we should balance around] 
