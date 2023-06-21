@@ -1,13 +1,22 @@
+# Throwables
+- Plasma Grenade - **SINGLE USE** - 
+	+ *These puppies blast volatile plasma everywhere in roughly a 20 foot radius*
+	+ Flat 10 plasma damage [it's basically a mini sun and also used up on use]  
+- EMP Grenade - **SINGLE USE** - obtainable from 
+	- *These blast a metric FUCK ton of electricity in a short radius, stunning GOO- units for a short time and shorting out plasma based weaponry*
+	- Does no real damage
+- Javelin 
+	- *"WHO THE HELL STILL CARRIES JAVELINS???" - a random person after being hit with a javelin*
+	- Range is proportional to Strength [you have to throw them, after all]
+	- 7 Damage when thrown, +3 when used as a weapon
+ 
 # Light
-These dont lower your movement speed, but usually deal less damage
+These don't lower your movement speed, but usually deal less damage
 - Bunny Blades
 	- *hey, its your ears!*
 	- +2 damage, one for each blade
 	- on a crit, deal x4 damage [common with daggers, since you need to get right on top of an enemy]
-+ Grenade
-	+ *Throw a grenade to explode or incapacitate your enemy.*
-	+ Flat 10 damage in a small area on plasma explosion variety [it's basically a mini sun and also used up on use] and 0 damage on emp variety, but temporarily messes up electronics and knocks out [[GOO8 Units]] in a small area
-	+ Cannot crit
+
 
 # Medium
 Reduces the speed of the weaker available GOO- models, and deal average damage. [what we should balance around] 
