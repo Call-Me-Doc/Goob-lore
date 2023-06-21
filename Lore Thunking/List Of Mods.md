@@ -20,6 +20,9 @@
 	- *Insulation beneath the outer plating makes heat a non-issue.*
 	- protects from heat, more each tier, and can even deflect weaker plasma-based attacks at higher tiers.
 	- [at lower tiers plasma strips a small amount of your plating, and deals damage. tier 3 stops stripping armor, but you still take damage. tier 4 lets you entirely shrug off "cool" plasma (the shit from low tier weapons). t5 halves ALL plasma damage]
+- Overclocked Processors (3 tiers) - Available anywhere aside from STDD
+	- *With a combination of stronger processors and overclocking them, you are able to have more actions per turn.*
+	- +1/3/5 actions per turn each upgrade [at base the player gets 2, so it would go 2+0/2+1/2+3/2+5]
 + Jumpstart Module (3 tiers) - only available from Doc
 	+ *when in serious danger, this modification pumps a little extra juice into you to help keep you going.*
 	+ acts as an artificial Willpower increase. [if used to fight back against Ominous, it breaks]
@@ -51,9 +54,16 @@
 
 # Back: 
 (the back slot on goobers, like wings / tails and shit)
-- wings
-	- *aside from looking cool, it helps to slow falls, and if modded enough, even help you jump higher!*
-	- slows your fall
+
+## Wings
+ *Aside from looking cool, it helps to slow falls, and has some incredible modding potential!*
+- slows your fall
+	Upgrades:
+	-  R10T
+		*with some heavy armor plating, and a dozen extra segments your wings can now act as a proper shield!*
+		- +80% damage resistance on turns where you have an attack left over
+		-  - no longer able to slow your fall whatsoever. Hell, you even fall faster!
+
 - Cat tail
 	- prehensile tail, capable of stabbing shit, or grabbing stuff
 - Fox tail
@@ -64,15 +74,22 @@
 
 # Ears:
 (its the fucking ears you morons, how would forget)
-- 8UNN*/
-	- bunny ears, can work as an emergency blade.
-	-  +2 to overall damage when used
-	- -1 to speech when speaking with those experienced in the underworld's doing, as they know those are weapons. [this is basically any Synth who's been around awhile.]
-- 3AR5
-	- General Animal Ears, the weebs will like these.
-	- +3 to speech, as people are willing to let some things slide for a cutie like you
-- H07NS
-	- work as emergency close range blunt weapons (you headbutt them you moron)
-	- also work as tools for climbing, when needed (imagine ice picks, but they live on your head)
-- 
+
+## 8UNN*/
+*Bunny ears, can work as an emergency blade.*
+-  +2 to overall damage when used
+- -1 to speech when speaking with those experienced in the underworld's doing, as they know those are weapons. [this is basically any Synth who's been around awhile.] +2 to speech with anyone else.
+	Upgrades: [only one per set of ears]
+	- Swa7m
+		*Nearly an entire reconstruction of the ears themselves, with increased power enabling them to float higher, and allowing them to split into 5 smaller blades. these babies are gonna shred just about anyone like a swarm of angry bees.*
+		- Allows you to deploy each ear as an AOE radius of 5 tiles, dealing constant damage each to anyone who you don't permit to enter.
+	- 
+
+## 3AR5
+*General Animal Ears, the weebs will like these.*
+- +3 to speech, as people are willing to let some things slide for a cutie like you :3 
+
+## H07NS
+- work as emergency close range blunt weapons (you headbutt them you moron)
+- also work as tools for climbing, when needed (imagine ice picks, but they live on your head)
  
