@@ -1,10 +1,16 @@
 # Throwables
-- Plasma Grenade - **SINGLE USE** - 
+- Plasma Grenade - **SINGLE USE** - obtainable from places that sell grenades
 	+ *These puppies blast volatile plasma everywhere in roughly a 20 foot radius*
-	+ Flat 10 plasma damage [it's basically a mini sun and also used up on use]  
-- EMP Grenade - **SINGLE USE** - obtainable from 
+	+ Flat 10 plasma damage, armor shredding [it's basically a mini sun and also used up on use]  
+- EMP Grenade - **SINGLE USE** - obtainable from places that sell grenades
 	- *These blast a metric FUCK ton of electricity in a short radius, stunning GOO- units for a short time and shorting out plasma based weaponry*
 	- Does no real damage
+- Fragmentation Grenade - **SINGLE USE** - obtainable from places that sell grenades
+	- *Instead of blasting volatile plasma or electricity, these use the violence of strong electromagnets dangerously close to one another to blast physical shrapnel into your foes.*
+	-  Flat 15 damage
+- Flashbang Grenade - **SINGLE USE** - obtainable from places that sell grenades
+	- *Really bright lights and a loud ass sound are bound to disorient anyone and anything. Unless they have mods to fight against it.*
+	- Stuns anyone in its 30 foot range for 2 turns
 - Javelin 
 	- *"WHO THE HELL STILL CARRIES JAVELINS???" - a random person after being hit with a javelin*
 	- Range is proportional to Strength [you have to throw them, after all]
@@ -34,10 +40,11 @@ Reduces the speed of the weaker available GOO- models, and deal average damage. 
 	- flat 9 damage [i am going to put the fear of god into something.]
 	- crit x1.5 [same reason for the plasma bow, rounded to 14]
 + Halfstaff
-	+ *Like double a quarterstaff, and retractable too!*
+	- *This "Halfstaff" is actually just a quarterstaff, but it's marketed to be twice as good as a normal quarterstaff. It's not, by the way, it's just marketing.*
 	+ +5 damage
 	+ crit x1.5 [with slightly more damage and more utility than other medium weapons it's crit modifier is the penalty]
-	+ Can be retracted to about the size of a thin soda can, allowing it to fit in pockets and other small storage areas
+	+ When you end a turn with an attack with this weapon, you gain 20% damage resistance
+	+ Can be retracted to about the size of a thin soda can, allowing it to fit in pockets and other small storage areas. [this makes it count as a light weapon storage wise]
 
 # Heavy
 Greatly slows movement when being used, massive damage to compensate [cool combo potential with grappling hook? drop the thing and drag it back to you]

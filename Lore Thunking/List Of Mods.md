@@ -1,49 +1,73 @@
 # Eyes:
-- Image Enhancement (3 tiers) - available anywhere
-	- *Increasing the resolution of the cameras in the eyes lets you see significantly better.*
-	- increases Perception, more each tier
-+ Telescopic Vision - available anywhere
-	+ *See things from a greater distance by zooming in your eyes.*
-	+ allows up to an insane 64x magnification
-+ Antiflash - available anywhere
-	+ *Protects from being blinded by strong lights or flashbangs.*
-	+ just as advertised
-+ Microscopic Vision - available only from STDD
-	+ *Microscopes built right into your eyes.*
-	+ allows microscopic vision at will
 
+## Image Enhancement (3 tiers)
+[Available anywhere]
+*Increasing the resolution of the cameras in the eyes lets you see significantly better.*
+- increases Perception, more each tier
+
+## Telescopic Vision 
+[Available anywhere]
+*See things from a greater distance by zooming in your eyes.*
++ allows up to an insane 64x magnification
+
+## Antiflash
+[Available anywhere]
++ *Protects from being blinded by strong lights or flashbangs.*
++ just as advertised
+
+## Microscopic Vision 
+[Available only from STDD. maybe scrap?]
+*Microscopes built right into your eyes.*
++ allows microscopic vision at will
+----
 # Body:
-- Enhanced Armor Plating (3 tiers) - available anywhere
-	- *A stronger outer shell means you can take more punishment before going down.*
-	- gives more health, more each tier
-- Insulated Plating (5 tiers) - available anywhere
-	- *Insulation beneath the outer plating makes heat a non-issue.*
-	- protects from heat, more each tier, and can even deflect weaker plasma-based attacks at higher tiers.
-	- [at lower tiers plasma strips a small amount of your plating, and deals damage. tier 3 stops stripping armor, but you still take damage. tier 4 lets you entirely shrug off "cool" plasma (the shit from low tier weapons). t5 halves ALL plasma damage]
-- Overclocked Processors (3 tiers) - Available anywhere aside from STDD
-	- *With a combination of stronger processors and overclocking them, you are able to have more actions per turn.*
-	- +1/3/5 actions per turn each upgrade [at base the player gets 2, so it would go 2+0/2+1/2+3/2+5]
-+ Jumpstart Module (3 tiers) - only available from Doc
-	+ *when in serious danger, this modification pumps a little extra juice into you to help keep you going.*
-	+ acts as an artificial Willpower increase. [if used to fight back against Ominous, it breaks]
-+ Chameleon Plating - Unique
-	+ *Originally intended for military use, this high end mod is occasionally seen in the hands of police in areas with higher crime rates.*
-	+ lets you almost seamlessly blend in with your background at a moment's notice
 
+## Enhanced Armor Plating (3 tiers) 
+[Available anywhere]
+*A stronger outer shell means you can take more punishment before going down.*
+- Gives more health, more each tier
+
+## Insulated Plating (5 tiers) 
+[Available anywhere]
+*Insulation beneath the outer plating makes heat a non-issue.*
+- protects from heat, more each tier, and can even deflect weaker plasma-based attacks at higher tiers.
+[at lower tiers plasma strips a small amount of your plating, and deals damage. tier 3 stops stripping armor, but you still take damage. tier 4 lets you entirely shrug off "cool" plasma (the shit from low tier weapons). t5 halves ALL plasma damage]
+
+## Overclocked Processors (3 tiers) 
+[Available anywhere, aside from STDD]
+*With a combination of stronger processors and overclocking them, you are able to have more actions per turn.*
+- +1/3/5 actions per turn each upgrade [at base the player gets 2, so it would go 2+0/2+1/2+3/2+5]
+
+## Jumpstart Module (3 tiers)
+[Only available from Doc]
++ *when in serious danger, this modification pumps a little extra juice into you to help keep you going.*
++ acts as an artificial Willpower increase of 3/5/7. [if used to fight back against Ominous, it breaks]
+
+## Chameleon Plating 
+[Unique]
+*Originally intended for military use, this high end mod is occasionally seen in the hands of police in areas with higher crime rates.*
++ lets you almost seamlessly blend in with your background at a moment's notice
+----
 # Arms:
-- Hidden Blade - only available from GOO8ER ^08a9fd
-	- *A dagger embedded in your forearm that pops out when in use. Useful in situations where your foes need to not know you're armed.*
-	- good for stealth
-	- "you need to leave your weapons at the check in counter" situations can let you keep it
-- Grappling Hook - available after agreeing to not work for pay at the Waffler House, and working 3 times
-	-  *A repurposed hydraulic winch. you're not entirely sure how Mr. Waffler got his hands on it, but now its yours*
-	- Takes up both Arm slots, due to its need for a large amount of wire.
-	- Allows you to grab onto basically anything under 10 tiles away, including enemies, and drag them into melee range. If its too heavy, you go to it.
-- Maghands - available anywhere
-	- *Using extremely focused electromagnets, these allow you to pull just about anything back to you. However, trying this on too heavy an object will trigger the emergency protocols and disable their pull.*
-	- allows you to pull just about anything metal to you, as long as its not too heavy.
-		- this includes any weapon in the Light or Medium categories, as well as just about anything that's not nailed down
 
+## Hidden Blade
+[only available from GOO8ER ^08a9fd]
+*A dagger embedded in your forearm that pops out when in use. Useful in situations where your foes need to not know you're armed.*
+- good for stealth
+- "you need to leave your weapons at the check in counter" situations can let you keep it
+
+## Grappling Hook 
+[available after agreeing to not work for pay at the Waffler House, and working 3 times]
+ *A repurposed hydraulic winch. you're not entirely sure how Mr. Waffler got his hands on it, but now its yours*
+- Takes up both Arm slots, due to its need for a large amount of wire.
+- Allows you to grab onto basically anything under 60 feet away, including enemies, and drag them into melee range. If its too heavy, you go to it.
+
+## Maghands 
+[available anywhere]
+*Using extremely focused electromagnets, these allow you to pull just about anything back to you. However, trying this on too heavy an object will trigger the emergency protocols and disable their pull.*
+- allows you to pull just about anything metal to you, as long as its not too heavy.
+	- this includes any weapon in the Light or Medium categories, as well as just about anything that's not nailed down
+----
 # Legs:
 - Maglegs - available anywhere
 	- *Stick to walls like spiderman with magnets in your feet! However, the massive weight of the magnets make your steps heavy and really removes all chance of stealth.*
@@ -51,7 +75,7 @@
 - Internal Weapons Storage - obtainable via either a sidequest from Venti or GOO8ER
 	- *internal storage for a couple spare weapons, and unless you go through a metal detector, your foes wont even know they're there!*
 	- allows you to carry 2 more Medium weapons, or 4 Light weapons.
-
+----
 # Back: 
 (the back slot on goobers, like wings / tails and shit)
 
@@ -64,10 +88,19 @@
 		- +80% damage resistance on turns where you have an attack left over
 		-  - no longer able to slow your fall whatsoever. Hell, you even fall faster!
 
-- Cat tail
-	- prehensile tail, capable of stabbing shit, or grabbing stuff
-- Fox tail
-	- *mostly for aesthetics, but can be additionally modded to hold things on your person*
+## Cat tail
+*A prehensile tail, loosely modeled after a cat's.* 
+- On your turn, you can throw or use one of your weapons you don't have currently equipped as an action
+- Can also be used in more creative ways, but I'm just a piece of text and am not creative
+
+## Fox tail
+*Mostly for aesthetics, but boy does that aesthetic have power over people.*
+- +3 speech. fluffye.
+	Upgrades:
+	- Kitsune's Tails
+		*By hollowing out the internal components, boosting their ability to hold weight, and a splitting the tail itself into 6 separate pieces, you can hold a small armory without even needing to feel the weight!*
+		- Opens up 6 more weapon slots
+
 - Extra Ear Compartments
 	- *clears out some unnecessary components from your upper back, along with a slight addition to your software to remove the 2 ear limit. go nuts you freaks*
 	- removes limits on ears, to a point
