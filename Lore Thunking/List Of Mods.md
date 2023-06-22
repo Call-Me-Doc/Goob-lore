@@ -3,34 +3,38 @@
 ## Image Enhancement (3 tiers)
 [Available anywhere]
 *Increasing the resolution of the cameras in the eyes lets you see significantly better.*
-- increases Perception, more each tier
+- Increases Perception, 5/7/10
 
 ## Telescopic Vision 
-[Available anywhere]
-*See things from a greater distance by zooming in your eyes.*
-+ allows up to an insane 64x magnification
+[Available anywhere, can be added onto other eye mods]
+*An additional modification overtop your eyes, allowing for a physical increase in magnification*
+- Can be combined with other mods in this slot
+- Allows up to an insane 64x magnification
 
 ## Antiflash
 [Available anywhere]
 + *Protects from being blinded by strong lights or flashbangs.*
-+ just as advertised
++ Just as advertised, flashbangs no longer affect you.
 
 ## Microscopic Vision 
 [Available only from STDD. maybe scrap?]
 *Microscopes built right into your eyes.*
-+ allows microscopic vision at will
++ Allows microscopic vision at will
+
 ----
 # Body:
 
-## Enhanced Armor Plating (3 tiers) 
+## Enhanced Armor Plating (4 tiers) 
 [Available anywhere]
 *A stronger outer shell means you can take more punishment before going down.*
 - Gives more health, more each tier
+	- 50%/100%/150%/200%
 
 ## Insulated Plating (5 tiers) 
 [Available anywhere]
 *Insulation beneath the outer plating makes heat a non-issue.*
-- protects from heat, more each tier, and can even deflect weaker plasma-based attacks at higher tiers.
+- Protects from heat, more each tier, and can even deflect weaker plasma-based attacks at higher tiers.
+- 10%/15%/20%/30%, ignores up to 3 damage/50%, ignores up to 5 damage
 [at lower tiers plasma strips a small amount of your plating, and deals damage. tier 3 stops stripping armor, but you still take damage. tier 4 lets you entirely shrug off "cool" plasma (the shit from low tier weapons). t5 halves ALL plasma damage]
 
 ## Overclocked Processors (3 tiers) 
@@ -44,17 +48,17 @@
 + acts as an artificial Willpower increase of 3/5/7. [if used to fight back against Ominous, it breaks]
 
 ## Chameleon Plating 
-[Unique]
+[Unique - STDD]
 *Originally intended for military use, this high end mod is occasionally seen in the hands of police in areas with higher crime rates.*
 + lets you almost seamlessly blend in with your background at a moment's notice
+
 ----
 # Arms:
 
 ## Hidden Blade
-[only available from GOO8ER ^08a9fd]
+[Only available from GOO8ER]
 *A dagger embedded in your forearm that pops out when in use. Useful in situations where your foes need to not know you're armed.*
-- good for stealth
-- "you need to leave your weapons at the check in counter" situations can let you keep it
+- Gives you an emergency weapon, available whenever you might need it, giving you a +1 damage whenever you aren't wielding a weapon in that hand.
 
 ## Grappling Hook 
 [available after agreeing to not work for pay at the Waffler House, and working 3 times]
@@ -67,14 +71,25 @@
 *Using extremely focused electromagnets, these allow you to pull just about anything back to you. However, trying this on too heavy an object will trigger the emergency protocols and disable their pull.*
 - allows you to pull just about anything metal to you, as long as its not too heavy.
 	- this includes any weapon in the Light or Medium categories, as well as just about anything that's not nailed down
+
 ----
 # Legs:
-- Maglegs - available anywhere
-	- *Stick to walls like spiderman with magnets in your feet! However, the massive weight of the magnets make your steps heavy and really removes all chance of stealth.*
-	- downside is it's loud as fuck and only works on magnetic material
-- Internal Weapons Storage - obtainable via either a sidequest from Venti or GOO8ER
-	- *internal storage for a couple spare weapons, and unless you go through a metal detector, your foes wont even know they're there!*
-	- allows you to carry 2 more Medium weapons, or 4 Light weapons.
+
+## Maglegs
+[Available anywhere]
+*Stick to walls like Spiderman with magnets in your feet! However, the massive weight of the magnets make your steps heavy and really removes all chance of stealth.*
+- downside is it's loud as fuck and only works on magnetic material
+
+## Internal Weapons Storage 
+[Obtainable via a sidequest from Venti or GOO8ER]
+*Internal storage for a couple spare weapons, and unless you go through a metal detector, your foes won't even know they're there!*
+- Gives 2 more weapon slots
+
+## Untitled Stealth Legs
+[Unique - STDD]
+*These might not have a name just yet, but they really help in stealth scenarios due to their patented Active Sound Suppression abilities!*
+- Due to their Active Sound Suppression, they almost entirely suppress sounds nearby you, including speech and the act of bashing in the heads of your foes!
+
 ----
 # Back: 
 (the back slot on goobers, like wings / tails and shit)
