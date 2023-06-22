@@ -24,7 +24,7 @@ These don't lower your movement speed, but usually deal less damage
 	- on a crit, deal x4 damage [common with daggers, since you need to get right on top of an enemy]
 - Hidden Blade
 	- *A knife in your forearm is always cool*
-	- +1 damage when a weapon isnt in this hand
+	- +1 damage when a weapon isn't in this hand
 	- x4 crit [same as above]
 
 

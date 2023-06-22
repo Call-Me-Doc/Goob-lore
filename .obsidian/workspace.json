@@ -35,11 +35,14 @@
             "id": "d401dabcfbe12074",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Lore Thunking/Weapons.md",
-                "mode": "source",
-                "source": false
+                "file": "Lore Thunking/Starting Paths.canvas",
+                "viewState": {
+                  "x": 1071.909969321157,
+                  "y": -84.86042310695598,
+                  "zoom": -0.1533284909116177
+                }
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore Thunking/Weapons.md",
+                "file": "Lore Thunking/Starting Paths.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore Thunking/Weapons.md",
+                "file": "Lore Thunking/Starting Paths.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore Thunking/Weapons.md"
+                "file": "Lore Thunking/Starting Paths.canvas"
               }
             }
           }
@@ -173,29 +176,31 @@
   },
   "active": "d401dabcfbe12074",
   "lastOpenFiles": [
-    "Background information/Weapons.md",
-    "Background information/GOO8 Units.md",
-    "Lore Thinking.canvas",
-    "Lore Thunking/Weapons.md",
-    "Lore Thunking/List Of Mods.md",
-    "Notable Charaters/Noober.md",
-    "Art/waffler.png",
     "Art/Ungooliever.png",
-    "Lore Thunking",
-    "Notable Charaters/Ominous.md",
-    "Notable Charaters/Venti.md",
-    "Notable Charaters/Ungooliever.md",
-    "Notable Charaters/The Doctor.md",
-    "Notable Groups/STDD.md",
-    "Notable Groups/GOO8ER.md",
-    "Art/Noober.png",
-    "Art/Venti.png",
-    "Art/Ominous.png",
-    "Art/Joobersilent.png",
-    "Art/Just in Goob.png",
     "Art/The Doctor.png",
-    "Notable Groups/STD.md",
+    "Art/Venti.png",
+    "Art/waffler.png",
     "Background information/Background about the Goobers.md",
+    "Background information/GOO8 Units.md",
+    "Background information/Weapons.md",
+    "Lore Thunking/List Of Mods.md",
+    "Lore Thunking/Lore Thinking.canvas",
+    "Lore Thunking/Starting Paths.canvas",
+    "Lore Thunking/Weapons.md",
+    "Notable Charaters/Noober.md",
+    "Notable Charaters/Ominous.md",
+    "Notable Charaters/The Doctor.md",
+    "Notable Charaters/Ungooliever.md",
+    "Notable Charaters/Venti.md",
+    "Notable Groups/GOO8ER.md",
+    "Notable Groups/STDD.md",
+    "Art/Ominous.png",
+    "Art/Noober.png",
+    "Art/Just in Goob.png",
+    "Art/Joobersilent.png",
+    "Untitled.md",
+    "Lore Thunking",
+    "Notable Groups/STD.md",
     "Notable Groups",
     "Art",
     "GOO8.md",

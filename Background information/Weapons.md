@@ -6,7 +6,7 @@ For example, swords are made up of 2 distinct pieces, that connect via through e
 
 Bows on the other hand, are a little more complicated. instead of using a standard quiver, use a internal container to launch plasma at high speeds and generally in a arrow shape. this needs to be refilled, but at a much slower rate, pierces armor and people much better, and with a lighter overall carry weight compared to a standard bow.
 
-Larger implements of war follow a similar path, with weapons such as ballistas shooting plasma, just in larger quantities and much deadlier.
+Larger implements of war follow a similar path, with weapons such as ballistae shooting plasma, just in larger quantities and much deadlier.
 
 Weapons that never needed the discovery of gunpowder, such as flamethrowers, do exist. A weapon that can go "fuck everything in that general direction" is always a helpful tool, especially when said fire is burning over 3,400ºC.
 
