@@ -116,9 +116,9 @@
 		*By hollowing out the internal components, boosting their ability to hold weight, and a splitting the tail itself into 6 separate pieces, you can hold a small armory without even needing to feel the weight!*
 		- Opens up 6 more weapon slots
 
-- Extra Ear Compartments
-	- *clears out some unnecessary components from your upper back, along with a slight addition to your software to remove the 2 ear limit. go nuts you freaks*
-	- removes limits on ears, to a point
+## Extra Ear Compartments
+*Clears out some unnecessary components from your upper back, along with a slight addition to your software to remove the 2 ear limit. go nuts you freaks*
+- removes limits on ears, to a point
 
 # Ears:
 (its the fucking ears you morons, how would forget)
@@ -129,7 +129,7 @@
 - -1 to speech when speaking with those experienced in the underworld's doing, as they know those are weapons. [this is basically any Synth who's been around awhile.] +2 to speech with anyone else.
 	Upgrades: [only one per set of ears]
 	- Swa7m
-		*Nearly an entire reconstruction of the ears themselves, with increased power enabling them to float higher, and allowing them to split into 5 smaller blades. these babies are gonna shred just about anyone like a swarm of angry bees.*
+		*Nearly an entire reconstruction of the ears themselves, with increased power enabling them to float higher, and allowing them to split into 5 smaller blades. These babies are gonna shred just about anyone like a swarm of angry bees.*
 		- Allows you to deploy each ear as an AOE radius of 5 tiles, dealing constant damage each to anyone who you don't permit to enter.
 	- 
 
