@@ -1,5 +1,10 @@
 # Head:
 
+## QuickSwap Module
+[this bitch should be EXPENSIVE. like 2 payments of network costs expensive]
+*Installed in the neck, this mod comes with 2 lower power copies to be installed on other bodies, allowing you to control all of them practically simultaneously. These spare bodies are able to be swapped to at a moment's notice, but cant do much on it's own. Thankfully you can tell them to do things without you being there.*
+- Allows you to bring 2 more bodies into combat, more bodies means more hands in combat.
+
 ## Image Enhancement (3 tiers)
 [Available anywhere]
 *Increasing the resolution of the cameras in the eyes lets you see significantly better.*
@@ -8,7 +13,7 @@
 ## Telescopic Vision 
 [Available anywhere, can be added onto other eye mods]
 *An additional modification overtop your eyes, allowing for a physical increase in magnification*
-- Can be combined with other mods in this slot
+- Can be combined with other mods in this slot, and does not take up an additional slot
 - Allows up to an insane 64x magnification
 
 ## Antiflash
@@ -29,7 +34,9 @@
 	- Swa7m
 		*Nearly an entire reconstruction of the ears themselves, with increased power enabling them to float higher, and allowing them to split into 5 smaller blades. These babies are gonna shred just about anyone like a swarm of angry bees.*
 		- Allows you to deploy each ear as an AOE radius of 5 tiles, dealing constant damage each to anyone who you don't permit to enter.
-	- 
+	- DA66ER
+		*With a sharpening of the tips to a fine point, and maximizing the ability of the ears' propulsion, they can now move up to Mach 2 while separated from you and leave holes in your foes.*
+		- allows you to shoot an ear towards an enemy as an action, with +4 damage on an attack
 
 ## 3AR5
 *General Animal Ears, the weebs will like these.*
@@ -41,6 +48,10 @@
 
 ----
 # Body:
+
+## stronk body (2 tiers)
+*body that stronk*
+- +4/8 Strength
 
 ## Enhanced Armor Plating (4 tiers) 
 [Available anywhere]
@@ -73,6 +84,10 @@
 ----
 # Arms:
 
+## stronk arms (2 tiers)
+*arms that stronk*
+- +4/8 Strength
+
 ## Hidden Blade
 [Only available from GOO8ER]
 *A dagger embedded in your forearm that pops out when in use. Useful in situations where your foes need to not know you're armed.*
@@ -92,6 +107,10 @@
 
 ----
 # Legs:
+
+## stronk legs (2 tiers)
+*legs that stronk*
+- +4/8 Strength
 
 ## Maglegs
 [Available anywhere]
@@ -117,9 +136,12 @@
 - slows your fall
 	Upgrades:
 	-  R10T
-		*with some heavy armor plating, and a dozen extra segments your wings can now act as a proper shield!*
+		*With some heavy armor plating, and a dozen extra segments your wings can now act as a proper shield!*
 		- +80% damage resistance on turns where you have an attack left over
 		-  - no longer able to slow your fall whatsoever. Hell, you even fall faster!
+	- FL1GHT
+		*With an addition of some tailfeathers on your lower back to the wings themselves, and some damn strong propulsion, you can take flight for short periods of time!*
+		- Grants the ability to fly for a maximum of 4 turns
 
 ## Cat tail
 *A prehensile tail, loosely modeled after a cat's.* 
@@ -128,12 +150,15 @@
 
 ## Fox tail
 *Mostly for aesthetics, but boy does that aesthetic have power over people.*
-- +3 speech. fluffye.
+- +3 speech.
 	Upgrades:
 	- Kitsune's Tails
 		*By hollowing out the internal components, boosting their ability to hold weight, and a splitting the tail itself into 6 separate pieces, you can hold a small armory without even needing to feel the weight!*
 		- Opens up 6 more weapon slots
+	- Fluffye
+		*By increasing the fluffy factor by 800%, this increases your cuteness factor by exactly 69%. the strongest percentage when coming to attraction*
+		- +10 to Speech, all will fall to your fluff
 
 ## Extra Ear Compartments
 *Clears out some unnecessary components from your upper back, along with a slight addition to your software to remove the 2 ear limit. go nuts you freaks*
-- removes limits on ears, to a point
+- Up to 6 sets of "Ear" mods no longer count against your head mod count.
