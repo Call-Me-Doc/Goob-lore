@@ -37,11 +37,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lore Thunking/Starting Paths.canvas",
+                "file": "Lore Thunking/Persons of interest.canvas",
                 "viewState": {
-                  "x": 1287.2132355302083,
-                  "y": -248.0316961662503,
-                  "zoom": -2.98466891013632
+                  "x": 396.4202999210172,
+                  "y": -1013.4881765449308,
+                  "zoom": -0.40864339495671564
                 }
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore Thunking/Starting Paths.canvas",
+                "file": "Lore Thunking/Persons of interest.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore Thunking/Starting Paths.canvas",
+                "file": "Lore Thunking/Persons of interest.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore Thunking/Starting Paths.canvas"
+                "file": "Lore Thunking/Persons of interest.canvas"
               }
             }
           }
@@ -176,8 +176,11 @@
   },
   "active": "d401dabcfbe12074",
   "lastOpenFiles": [
-    "Art/Ungooliever.png",
     "Lore Thunking/Starting Paths.canvas",
+    "Lore Thunking/Persons of interest.canvas",
+    "Art/Karma.png",
+    "Art/Ungooleiver.png",
+    "Art/Ungooliever.png",
     "Lore Thunking/Lore Thinking.canvas",
     "Lore Thunking/Weapons.md",
     "Lore Thunking/List Of Mods.md",
