@@ -39,7 +39,7 @@
 		- allows you to shoot an ear towards an enemy as an action, with +4 damage on an attack
 
 ## 3AR5
-*General Animal Ears, the weebs will like these.*
+*General animal ears, the weebs will like these.*
 - +3 to speech, as people are willing to let some things slide for a cutie like you :3 
 
 ## H07NS
@@ -49,15 +49,15 @@
 ----
 # Body:
 
-## stronk body (2 tiers)
-*body that stronk*
-- +4/8 Strength
+## Reinforced Chasse (2 tiers)
+*By reinforcing your internal chasse, it allows you to lift heavier objects without risk of long term damage.*
+- +3/5 Strength
 
 ## Enhanced Armor Plating (4 tiers) 
 [Available anywhere]
 *A stronger outer shell means you can take more punishment before going down.*
 - Gives more health, more each tier
-	- 50%/100%/150%/200%
+	- 10/20/30/40
 
 ## Insulated Plating (5 tiers) 
 [Available anywhere]
@@ -84,9 +84,9 @@
 ----
 # Arms:
 
-## stronk arms (2 tiers)
-*arms that stronk*
-- +4/8 Strength
+## BUFF ARMS (2 tiers)
+*WITH THE POWER OF SICK GAINS, YOUR ARMS ARE MORE POWERFUL THAN EVER.*
+- +3/5 Strength
 
 ## Hidden Blade
 [Only available from GOO8ER]
@@ -108,9 +108,9 @@
 ----
 # Legs:
 
-## stronk legs (2 tiers)
-*legs that stronk*
-- +4/8 Strength
+## Extra powerful legs (2 tiers)
+*You ever heard that you gotta lift with your legs? This mod lets you do just that!*
+- +3/5 Strength
 
 ## Maglegs
 [Available anywhere]
@@ -142,6 +142,7 @@
 	- FL1GHT
 		*With an addition of some tailfeathers on your lower back to the wings themselves, and some damn strong propulsion, you can take flight for short periods of time!*
 		- Grants the ability to fly for a maximum of 4 turns
+		- - Takes up a second Back Mod slot
 
 ## Cat tail
 *A prehensile tail, loosely modeled after a cat's.* 
