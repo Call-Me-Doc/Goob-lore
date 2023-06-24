@@ -35,14 +35,11 @@
             "id": "d401dabcfbe12074",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Lore Thunking/Persons of interest.canvas",
-                "viewState": {
-                  "x": 396.4202999210172,
-                  "y": -1013.4881765449308,
-                  "zoom": -0.40864339495671564
-                }
+                "file": "Notable Charaters/Ungooliever.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore Thunking/Persons of interest.canvas",
+                "file": "Notable Charaters/Ungooliever.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore Thunking/Persons of interest.canvas",
+                "file": "Notable Charaters/Ungooliever.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore Thunking/Persons of interest.canvas"
+                "file": "Notable Charaters/Ungooliever.md"
               }
             }
           }
@@ -176,8 +173,10 @@
   },
   "active": "d401dabcfbe12074",
   "lastOpenFiles": [
-    "Lore Thunking/Starting Paths.canvas",
+    "Notable Charaters/Venti.md",
+    "Notable Charaters/Ungooliever.md",
     "Lore Thunking/Persons of interest.canvas",
+    "Lore Thunking/Starting Paths.canvas",
     "Art/Karma.png",
     "Art/Ungooleiver.png",
     "Art/Ungooliever.png",
@@ -193,8 +192,6 @@
     "Notable Charaters/Noober.md",
     "Notable Charaters/Ominous.md",
     "Notable Charaters/The Doctor.md",
-    "Notable Charaters/Ungooliever.md",
-    "Notable Charaters/Venti.md",
     "Notable Groups/GOO8ER.md",
     "Notable Groups/STDD.md",
     "Art/Ominous.png",
