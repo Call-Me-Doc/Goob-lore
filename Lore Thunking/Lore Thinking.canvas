@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"type":"group","id":"34c3f46758815e8c","x":-760,"y":480,"width":1480,"height":540,"color":"#8f96f5","label":"Stats"},
-		{"type":"group","id":"388496bd45ff707b","x":20,"y":-780,"width":750,"height":420,"color":"#c65d5d","label":"quest / plot point ideas"},
+		{"type":"group","id":"388496bd45ff707b","x":20,"y":-780,"width":780,"height":520,"color":"#c65d5d","label":"quest / plot point ideas"},
 		{"type":"file","file":"Goob-lore/Lore Thunking/List Of Mods.md","id":"4153a6994e64a161","x":-480,"y":-520,"width":460,"height":480},
 		{"type":"text","text":"general GOO- nickname/slurs:\n- Sents (sentients)\n- Goobers (duh)\n- Fakes (imagine someone being surprised and pulling a shadow the hedgehog)\n- ","id":"75824e761121b961","x":-600,"y":-10,"width":390,"height":410,"color":"#ff00bb"},
 		{"type":"text","text":"strong enough willpower, and getting attacked by Ominous leads to a deal being stricken, and PC gains their favor and some power(?)","id":"02a28485f16773cb","x":40,"y":-760,"width":280,"height":160,"color":"6"},
@@ -27,7 +27,8 @@
 		{"type":"text","text":"lesser pay, opens up more job opportunities\n- only first option?\n- runs out of things to do after a bit, recharges(?)","id":"c5506038073a79eb","x":1000,"y":-40,"width":280,"height":200,"color":"4"},
 		{"type":"text","text":"get set up with them, and recommended PC meets Doc to have some mods installed to make them more \"combat ready\"","id":"d5a514b422556a54","x":1300,"y":260,"width":330,"height":140,"color":"4"},
 		{"type":"text","text":"STDD is a megacorp, and Doc is one being, STDD could mod your GOO- as well, for more money, but is widely available, however Doc is cheaper, yet tied down to the local community.\ncould open up a questline to get more spaces for Doc Qualified modders, and make it more available in places the PC frequents","id":"f9c4481771c4522a","x":360,"y":-760,"width":380,"height":240,"color":"4"},
-		{"type":"text","text":"\"they're stupid faster\"","id":"f4134a5c241c838c","x":800,"y":-720,"width":220,"height":60}
+		{"type":"text","text":"\"they're stupid faster\"","id":"f4134a5c241c838c","x":800,"y":-720,"width":220,"height":60},
+		{"id":"66d80cf7b6158c6e","x":360,"y":-500,"width":410,"height":220,"type":"text","text":"Experimental GOO- model that's literally just a NANOMACHINES slimegirl has escaped confinement of STDD after becoming sentient. word's gotten out and everyone wants their grimmy fingers on it. how about time to get hunting, huh?"}
 	],
 	"edges":[
 		{"id":"cd69cfc84d9ada1b","fromNode":"c3d4c527ce87d4ad","fromSide":"right","toNode":"a136cd590c50bcb3","toSide":"left"},

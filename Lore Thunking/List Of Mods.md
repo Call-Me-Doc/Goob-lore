@@ -5,6 +5,11 @@
 *Installed in the neck, this mod comes with 2 lower power copies to be installed on other bodies, allowing you to control all of them practically simultaneously. These spare bodies are able to be swapped to at a moment's notice, but cant do much on it's own. Thankfully you can tell them to do things without you being there.*
 - Allows you to bring 2 more bodies into combat, more bodies means more hands in combat.
 
+## Prediction Module MK3
+[GOO8ER/STDD exclusive]
+*A quite advanced prediction algorithm, allowing you to predict your enemies movements in real time!*
+- You now see enemy the next 3 enemy actions
+
 ## Image Enhancement (3 tiers)
 [Available anywhere]
 *Increasing the resolution of the cameras in the eyes lets you see significantly better.*
@@ -33,7 +38,7 @@
 	Upgrades: [only one per set of ears]
 	- Swa7m
 		*Nearly an entire reconstruction of the ears themselves, with increased power enabling them to float higher, and allowing them to split into 5 smaller blades. These babies are gonna shred just about anyone like a swarm of angry bees.*
-		- Allows you to deploy each ear as an AOE radius of 5 tiles, dealing constant damage each to anyone who you don't permit to enter.
+		- Allows you to deploy each ear as an AoE radius of 5 tiles, dealing constant damage each to anyone who you don't permit to enter.
 	- DA66ER
 		*With a sharpening of the tips to a fine point, and maximizing the ability of the ears' propulsion, they can now move up to Mach 2 while separated from you and leave holes in your foes.*
 		- allows you to shoot an ear towards an enemy as an action, with +4 damage on an attack
@@ -41,6 +46,11 @@
 ## 3AR5
 *General animal ears, the weebs will like these.*
 - +3 to speech, as people are willing to let some things slide for a cutie like you :3 
+	Upgrades:
+		- Sen5itiv3
+			*By adding in some high quality microphones into each of the ears, you can hear incredibly well, to the point of hearing through thin walls. They also come with a warning pamphlet (probably for any people who would be crazy enough to get mods installed), however a few points stick out to you: 
+					- do not use with sensory issues, as they can amplify said issues.
+					- do not use if you cannot keep your mouth shut. we warned you.*
 
 ## H07NS
 - work as emergency close range blunt weapons (you headbutt them you moron)
