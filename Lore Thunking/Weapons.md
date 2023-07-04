@@ -61,3 +61,6 @@ Greatly slows movement when being used, massive damage to compensate [cool combo
 	- +7 damage
 	- x2.5 crit
 	- double reach
+- Greatsword
+	- *A two handed greatsword. If you need more of a explanation than that you shouldn't be wielding this.*
+	- [reskin of axe? no clue on what to do with this]

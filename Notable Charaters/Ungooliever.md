@@ -2,4 +2,4 @@ A notable member of the experimental General Operation Outfit v.13 (GOO13) proje
 
 Being made for combat with an amazing weapon the Unbeliever is one of, if not *the* most dangerous sentient GOO- unit, with the Excalibur able to use it's electromagnetic field to manipulate it's separated half as a flying blade and the Unbeliever themself endowed with an extra pair of arms, immensely improved physical/sensory/intellectual capabilities, and various other oddities too numerous to name.
 
-They are also in an extremely hostile rivalry with [[Venti]] due to their opposite ideologies and positions. They have been coming up with progressively more over the top plans to break into [[STDD]], but Venti has been able to foil him everytime with the power of batshit insanity.
+They are also in an extremely hostile rivalry with [[Venti]] due to their opposite ideologies and positions. They have been coming up with progressively more over the top plans to break into [[STDI]], but Venti has been able to foil him everytime with the power of batshit insanity.
