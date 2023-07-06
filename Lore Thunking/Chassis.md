@@ -12,6 +12,7 @@ W. Slots: 1
 
 ## Junked ???
 *Nobody's fully sure who made this, but you woke up in it regardless. It seems compatible with GOO- series mods, thankfully.*
+[junked goober's body]
 HP: 15
 DEX: 3
 PER: 2
@@ -44,17 +45,27 @@ W. Slots: 2
 ## GOO37 - "Brute"
 *After several failures on updating the GOO8, STDI realized they needed specialize their models, as the GOO8 outlasted every replacement they devised. The GOO37 was their answer to those who needed bodyguards, bouncers, and other roles that required heavy lifting and a stronger stature.*
 [Drug Goob is one of these]
-HP: 25
+HP: 30
 DEX: 4
 PER: 4
 STR: 9
 Mod Slots: 2
 W. Slots: 2
 
+## GOO? - "Thief"
+*Another one of [[STDI]]'s more specialized GOO- series, with an emphasis on agility rather than strength. When this first was announced to be available for public purchase, several groups announced concern over the use of them for thievery. [[STDI]] did not soothe anyone's concerns.*
+
+HP: 20
+DEX: 9
+PER: 6
+STR: 4
+Mod Slots: 2
+W. Slots: 1
+
 # Misc.:
 
 ## Codename SlipStream - "Slime Goober"
-*"... as for our final story of the night, the Scientific and Technological Development Independants have announced that a experimental new assistant has gone rouge and escaped from their facility. they have since put up a bounty for 500 million dollars for its recapture." - Generic News Corporation*
+*"... as for our final story of the night, the Scientific and Technological Development Independents have announced that a experimental new assistant has gone rouge and escaped from their facility. they have since put up a bounty for 500 million dollars for its recapture." - Generic News Corporation*
 [we name her... Sam.]
 *A highly experimental new GOO- series, primarily made up of microscopic machines to allow for nonstandard... everything. However, due to its experimental nature it's creators never bothered to give it visual quality past the very basics.*
 
