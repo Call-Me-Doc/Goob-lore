@@ -54,7 +54,7 @@ W. Slots: 2
 
 ## GOO? - "Thief"
 *Another one of [[STDI]]'s more specialized GOO- series, with an emphasis on agility rather than strength. When this first was announced to be available for public purchase, several groups announced concern over the use of them for thievery. [[STDI]] did not soothe anyone's concerns.*
-
+[give em a proper #. i dunno what to give them]
 HP: 20
 DEX: 9
 PER: 6
