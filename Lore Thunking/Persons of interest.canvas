@@ -22,7 +22,7 @@
 	],
 	"edges":[
 		{"id":"131cc731081268b1","fromNode":"c9d4ebc80425fb23","fromSide":"bottom","toNode":"4eb0f217ca1b6b51","toSide":"top","color":"6","label":"Worships"},
-		{"id":"cea0307e59c26d53","fromNode":"9a0738cbee28fe93","fromSide":"top","toNode":"faab3c11f38e6eab","toSide":"bottom","color":"1","label":"Respects"},
+		{"id":"cea0307e59c26d53","fromNode":"9a0738cbee28fe93","fromSide":"top","toNode":"53e981c80189f412","toSide":"bottom","color":"1","label":"Respects"},
 		{"id":"deb919c91b769721","fromNode":"61c839fc52dbd14a","fromSide":"top","toNode":"4eb0f217ca1b6b51","toSide":"left","label":"hates"},
 		{"id":"4b8edac2191f86d5","fromNode":"ed6baa90fb024161","fromSide":"left","toNode":"faab3c11f38e6eab","toSide":"right","label":"enemies"},
 		{"id":"842141b0979d65ae","fromNode":"faab3c11f38e6eab","fromSide":"right","toNode":"ed6baa90fb024161","toSide":"left"},

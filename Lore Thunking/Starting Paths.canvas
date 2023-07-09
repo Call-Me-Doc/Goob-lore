@@ -32,8 +32,9 @@
 		{"type":"text","text":"HP: 25 (up to -5)\nDexterity: 5 (+0)\nStrength: 5 (+0)\nPerception: 5 (+0)\nSmarts: 5 (+0)\nSpeech: 5 (+3)\nWillpower: 5 (+0)\n\nMods:\n- CyBreasts, medium (+1 speech)\n- 8UNN*/ Ears (+2 speech)\n- BUNN*/ Tail (+1 speech)\n-  LPDE coated gelatin replica ass\n- Replica vagina\n\nAvailable Mod Slots:\nHead: 1/2\nBody: 2/2\nL Arm: 2/2\nR Arm: 2/2\nBack: 1/2\nLegs: 2/2\n\nWeapon Slots:\n2/2\n","id":"70c58a7d8297655c","x":-1740,"y":-320,"width":340,"height":680,"color":"3"},
 		{"type":"text","text":"[we put a some lore qna shit here]","id":"95492b1f47011581","x":3800,"y":140,"width":310,"height":60,"color":"4"},
 		{"type":"text","text":"\"So. It seems you've caught me entirely out of most of my spare parts here, and its gonna take a couple days to get more.\" Doc sees the depression slipping back into you and cuts you off. \"BUT, I cant let you stay here forever, not during the day at least.\" Your face skinks deeper into depression. \"Double but, I am in need of a courier and you need knowledge on who's important around here, and I'm bad at talking about people.\" *great, gonna be a messenger.* \"If you be my courier for a couple days you'll get a serious way to protect yourself, besides, people who work for me don't get attacked unless the attackers are morons.\" they say, flatly, and slightly defeated.","id":"736b2ec4569e990d","x":4220,"y":-80,"width":440,"height":366,"color":"4"},
-		{"type":"text","text":"","id":"8b8d7188de1941b8","x":4800,"y":120,"width":250,"height":60},
-		{"type":"text","text":"","id":"bab98359c7000fe7","x":4800,"y":20,"width":250,"height":60}
+		{"type":"text","text":"","id":"8b8d7188de1941b8","x":4800,"y":120,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"","id":"bab98359c7000fe7","x":4800,"y":20,"width":250,"height":60,"color":"4"},
+		{"id":"3634485a322dcfc7","x":5180,"y":-15,"width":360,"height":330,"color":"4","type":"text","text":"SIDEQUEST START. \"Oh by the way,\" the Doctor begins, making you wonder what the fuck else they have to say to you, \"while you were out I checked your communications device and I noticed you were receiving some SOS signals. When I checked their locations they were in some junkyards around the city. I think they're some of your missing parts. If you want I can send you their locations, it might tell us how you got so fucked up.\""}
 	],
 	"edges":[
 		{"id":"8278ae82d0725c6f","fromNode":"31ef2ea93c699bae","fromSide":"right","toNode":"dfeeab666ac374e5","toSide":"left"},
@@ -68,6 +69,8 @@
 		{"id":"4055ae236c7c7211","fromNode":"2502c2347fb29cfe","fromSide":"right","toNode":"95492b1f47011581","toSide":"left","label":"Lore QNA"},
 		{"id":"b8b5e8bc66b1ee39","fromNode":"95492b1f47011581","fromSide":"right","toNode":"736b2ec4569e990d","toSide":"left"},
 		{"id":"b59b81cd80634248","fromNode":"736b2ec4569e990d","fromSide":"right","toNode":"bab98359c7000fe7","toSide":"left","label":"yes"},
-		{"id":"e60d80c300287127","fromNode":"736b2ec4569e990d","fromSide":"right","toNode":"8b8d7188de1941b8","toSide":"left","label":"no"}
+		{"id":"e60d80c300287127","fromNode":"736b2ec4569e990d","fromSide":"right","toNode":"8b8d7188de1941b8","toSide":"left","label":"no"},
+		{"id":"92acb95cfaf2d8a3","fromNode":"bab98359c7000fe7","fromSide":"right","toNode":"3634485a322dcfc7","toSide":"left"},
+		{"id":"9357841fde42abed","fromNode":"8b8d7188de1941b8","fromSide":"right","toNode":"3634485a322dcfc7","toSide":"left"}
 	]
 }
