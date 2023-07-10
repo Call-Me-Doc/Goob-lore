@@ -37,11 +37,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lore Thunking/Starting Paths.canvas",
+                "file": "Lore Thunking/Encounters.canvas",
                 "viewState": {
-                  "x": 5201.093082632178,
-                  "y": 329.20246463607344,
-                  "zoom": -0.5049568200143999
+                  "x": 1128.1979357820728,
+                  "y": 446.84498136881336,
+                  "zoom": -0.06889051120728751
                 }
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore Thunking/Starting Paths.canvas",
+                "file": "Lore Thunking/Encounters.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore Thunking/Starting Paths.canvas",
+                "file": "Lore Thunking/Encounters.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore Thunking/Starting Paths.canvas"
+                "file": "Lore Thunking/Encounters.canvas"
               }
             }
           }
@@ -176,9 +176,9 @@
   },
   "active": "d401dabcfbe12074",
   "lastOpenFiles": [
+    "Lore Thunking/Starting Paths.canvas",
     "Lore Thunking/Lore Thinking.canvas",
     "Lore Thunking/Encounters.canvas",
-    "Lore Thunking/Starting Paths.canvas",
     "Lore Thunking/Chassis.md",
     "Notable Charaters/Ungooliever.md",
     "Lore Thunking/List Of Mods.md",
