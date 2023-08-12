@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"5acf202f368c49b4","x":1080,"y":-780,"width":1620,"height":620,"color":"6","type":"group","label":"ominous cult zone"},
 		{"type":"file","file":"Art/Venti.png","id":"ed6baa90fb024161","x":177,"y":-1616,"width":400,"height":400,"color":"5"},
 		{"type":"file","file":"Art/Noober.png","id":"9a0738cbee28fe93","x":377,"y":112,"width":400,"height":400,"color":"1"},
 		{"type":"file","file":"Art/waffler.png","id":"61c839fc52dbd14a","x":-23,"y":112,"width":400,"height":400,"color":"3"},
@@ -18,7 +19,11 @@
 		{"type":"text","text":"created Goobers, pulls 72 hour shifts on a whim. gay for Karma","id":"7bf450af016bc7e9","x":177,"y":-1216,"width":400,"height":76,"color":"5"},
 		{"type":"text","text":"Former experimental military GOO-, leading [[GOO8ER]] ","id":"53e981c80189f412","x":-597,"y":-1016,"width":400,"height":96,"color":"1"},
 		{"type":"text","text":"Former military GOO-, unb's right hand man","id":"f6aa04f180ac225d","x":377,"y":512,"width":400,"height":88,"color":"1"},
-		{"type":"text","text":"randomly kills Goobs, hates waffler bc he knows how to control multiple bodies at once, meaning they cant kill him, *and* it would be a nice ability to have for randomly killing goobs","id":"a077b378b626f063","x":924,"y":312,"width":400,"height":128,"color":"6"}
+		{"type":"text","text":"randomly kills Goobs, hates waffler bc he knows how to control multiple bodies at once, meaning they cant kill him, *and* it would be a nice ability to have for randomly killing goobs","id":"a077b378b626f063","x":924,"y":312,"width":400,"height":128,"color":"6"},
+		{"id":"6957c08857ef2825","x":2007,"y":-760,"width":400,"height":400,"color":"6","type":"file","file":"Art/elija.png"},
+		{"id":"8cb758b7afb73503","x":1560,"y":-760,"width":400,"height":400,"color":"6","type":"file","file":"Art/he quiet.png"},
+		{"id":"2a8a9bc79303498d","x":939,"y":-2000,"width":385,"height":400,"type":"file","file":"Art/mel.png"},
+		{"id":"0701c1fac12e1a82","x":1440,"y":-1816,"width":400,"height":400,"type":"file","file":"Art/penis.png"}
 	],
 	"edges":[
 		{"id":"131cc731081268b1","fromNode":"c9d4ebc80425fb23","fromSide":"bottom","toNode":"4eb0f217ca1b6b51","toSide":"top","color":"6","label":"Worships"},
@@ -28,7 +33,7 @@
 		{"id":"842141b0979d65ae","fromNode":"faab3c11f38e6eab","fromSide":"right","toNode":"ed6baa90fb024161","toSide":"left"},
 		{"id":"eef4c2323cecf348","fromNode":"fb3c54e50c6c8d18","fromSide":"right","toNode":"8145439e014a1802","toSide":"bottom","toEnd":"none","color":"4"},
 		{"id":"0942e297ca7e4109","fromNode":"8145439e014a1802","fromSide":"bottom","toNode":"9a0738cbee28fe93","toSide":"top","toEnd":"none","color":"4"},
-		{"id":"aa08243faba8471c","fromNode":"8145439e014a1802","fromSide":"bottom","toNode":"4eb0f217ca1b6b51","toSide":"top","toEnd":"none","color":"4"},
+		{"id":"aa08243faba8471c","fromNode":"8145439e014a1802","fromSide":"bottom","toNode":"4eb0f217ca1b6b51","toSide":"top","toEnd":"none","color":"4","label":"Hates on basis of random murder"},
 		{"id":"8a7ad2107dc90a75","fromNode":"8145439e014a1802","fromSide":"right","toNode":"12f479cf242e70b5","toSide":"left","toEnd":"none","color":"4"},
 		{"id":"48f9ebe9e52601b2","fromNode":"8145439e014a1802","fromSide":"left","toNode":"f4d377e652f5d4f8","toSide":"right","toEnd":"none","color":"4"},
 		{"id":"6beb6e70f5e9bc6a","fromNode":"8145439e014a1802","fromSide":"top","toNode":"faab3c11f38e6eab","toSide":"bottom","toEnd":"none","color":"4"},

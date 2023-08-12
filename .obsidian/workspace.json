@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notable Groups/GOO8ER.md",
+                "file": "Lore Thunking/Weapons.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notable Charaters/Ungooliever.md",
+                "file": "Lore Thunking/Equipment.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,11 +37,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lore Thunking/Encounters.canvas",
+                "file": "Lore Thunking/Starting Paths.canvas",
                 "viewState": {
-                  "x": 1128.1979357820728,
-                  "y": 446.84498136881336,
-                  "zoom": -0.06889051120728751
+                  "x": -1054.523350468889,
+                  "y": 119.83905743470021,
+                  "zoom": -0.5145369776431878
                 }
               }
             }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore Thunking/Encounters.canvas",
+                "file": "Lore Thunking/Starting Paths.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore Thunking/Encounters.canvas",
+                "file": "Lore Thunking/Starting Paths.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore Thunking/Encounters.canvas"
+                "file": "Lore Thunking/Starting Paths.canvas"
               }
             }
           }
@@ -176,13 +176,23 @@
   },
   "active": "d401dabcfbe12074",
   "lastOpenFiles": [
+    "Lore Thunking/Equipment.md",
+    "Lore Thunking/Weapons.md",
     "Lore Thunking/Starting Paths.canvas",
+    "Notable Groups/GOO8ER.md",
+    "Lore Thunking/Persons of interest.canvas",
+    "Lore Thunking/List Of Mods.md",
     "Lore Thunking/Lore Thinking.canvas",
     "Lore Thunking/Encounters.canvas",
-    "Lore Thunking/Chassis.md",
+    "Art/Noober.png",
+    "Background information/Weapons.md",
     "Notable Charaters/Ungooliever.md",
-    "Lore Thunking/List Of Mods.md",
-    "Lore Thunking/Persons of interest.canvas",
+    "Art/penis.png",
+    "Art/hugo's monser he speaks.png",
+    "Art/mel.png",
+    "Art/he quiet.png",
+    "Art/elija.png",
+    "Lore Thunking/Chassis.md",
     "Lore Thunking/Chassies.md",
     "Notable Groups/STDI.md",
     "Background information/Ideas.md",
@@ -190,22 +200,13 @@
     "Art/Karma.png",
     "Art/Ungooleiver.png",
     "Art/Ungooliever.png",
-    "Lore Thunking/Weapons.md",
     "Art/The Doctor.png",
-    "Art/Venti.png",
-    "Art/waffler.png",
     "Background information/Background about the Goobers.md",
     "Background information/GOO8 Units.md",
-    "Background information/Weapons.md",
     "Notable Charaters/Noober.md",
     "Notable Charaters/Ominous.md",
     "Notable Charaters/The Doctor.md",
-    "Notable Groups/GOO8ER.md",
     "Notable Groups/STDD.md",
-    "Art/Ominous.png",
-    "Art/Noober.png",
-    "Art/Just in Goob.png",
-    "Art/Joobersilent.png",
     "Untitled.md",
     "Lore Thunking",
     "Notable Groups/STD.md",
