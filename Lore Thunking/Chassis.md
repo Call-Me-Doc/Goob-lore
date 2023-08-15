@@ -75,3 +75,13 @@ PER: 3
 STR: 7
 Mod Slots: 0
 W. Slots: 8
+
+## GOO13 - "Arthur"
+*Codenamed "Arthur" as it was meant to be paired with the experimental weapon Excalibur, this GOO- model was made in secret collaboration with the military as the bleeding edge in military GOO- technology. The project was immediately shut down after the very first finished model went sentient, deemed too dangerous, rendering this model one of a kind. It's most notable difference from a standard GOO- is it's extra pair of arms at the shoulders but that's not the only modifications, as it also has built in plasma claws in the hands for example.*
+
+HP: 100
+DEX: 30
+PER: 30
+STR: 40
+Mod Slots: Practically Unmodable
+W. Slots: 12
