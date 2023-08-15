@@ -39,9 +39,9 @@
               "state": {
                 "file": "Lore Thunking/Starting Paths.canvas",
                 "viewState": {
-                  "x": 2874.1783281027883,
-                  "y": 172.00558213439632,
-                  "zoom": -2.514536977643188
+                  "x": 2983.8754825297156,
+                  "y": 300.3942256576155,
+                  "zoom": -0.014536977643187843
                 }
               }
             }
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba25adcdcfbdc864",
@@ -177,11 +178,11 @@
   "active": "d401dabcfbe12074",
   "lastOpenFiles": [
     "Lore Thunking/Equipment.md",
+    "Lore Thunking/Starting Paths.canvas",
     "Notable Charaters/Ungooliever.md",
     "Lore Thunking/Lore Thinking.canvas",
     "Lore Thunking/Encounters.canvas",
     "Background information/Weapons.md",
-    "Lore Thunking/Starting Paths.canvas",
     "Lore Thunking/Weapons.md",
     "Notable Groups/GOO8ER.md",
     "Lore Thunking/Persons of interest.canvas",
