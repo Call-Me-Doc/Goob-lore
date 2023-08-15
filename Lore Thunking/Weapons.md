@@ -38,7 +38,7 @@ Reduces the speed of the weaker available GOO- models, and deal average damage. 
 - x2 crit [standard crit dmg]
 ## Plasma Bow
  *long past the stone age, we no longer use physical arrows. Instead, an internal system allows for practically infinite ammo, AND long range arson!*
-- deals a flat 6[?] damage
+- deals damage based on plasma type loaded into it, standard plasma deals 6 damage
 - crit deals x1.5 dmg [its range and could be annoying on enemies, so crits get to be mini-crits]
 
 ## Classic Bow
