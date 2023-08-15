@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore Thunking/Ammunition.md",
+                "file": "Lore Thunking/Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore Thunking/Ammunition.md",
+                "file": "Lore Thunking/Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore Thunking/Ammunition.md"
+                "file": "Lore Thunking/Weapons.md"
               }
             }
           }
@@ -186,12 +185,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97abebb49ea728ba",
+  "active": "474d90ea3dc3e1b3",
   "lastOpenFiles": [
-    "Lore Thunking/Equipment.md",
-    "Lore Thunking/Starting Paths.canvas",
     "Lore Thunking/Ammunition.md",
     "Lore Thunking/Weapons.md",
+    "Lore Thunking/Equipment.md",
+    "Lore Thunking/Starting Paths.canvas",
     "Lore Thunking/Persons of interest.canvas",
     "Notable Charaters/Ungooliever.md",
     "Lore Thunking/Lore Thinking.canvas",

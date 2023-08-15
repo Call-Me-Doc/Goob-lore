@@ -27,20 +27,26 @@ These don't lower your movement speed, but usually deal less damage
  *A knife in your forearm is always cool*
 - +1 damage when a weapon isn't in this hand
 - x4 crit [same as above]
-
-
+## Dagger
+*standard little dagger, some think that they're useless when dealing with larger weapons, but a good hit will do as much, if not more than said weapons.*
+- +3 damage
+- x4 crit
+## Collapsible Plasma Bow
+ *by making the bow collapsible it reduces overall storage profile, but also lowers draw distance.*
+- crit deals x1.5 dmg [its range and could be annoying on enemies, so crits get to be mini-crits]
+- 45 foot range [.75x of base]
 # Medium
 2 weapon slots
 Reduces the speed of the weaker available GOO- models, and deal average damage. [what we should balance around] 
-## Mag Blade
+## Mag Sword
  *A standard sword, with an intentional "crack" that can be quickly reconnected via internal magnets. This is intentional, as to reduce the rate at which they break.*
 - +4 damage
 - x2 crit [standard crit dmg]
 ## Plasma Bow
- *long past the stone age, we no longer use physical arrows. Instead, an internal system allows for practically infinite ammo, AND long range arson!*
+ *Long past the stone age, we no longer use physical arrows. Instead, an internal system allows for practically infinite ammo, AND the use of special ammo types!*
 - deals damage based on plasma type loaded into it, standard plasma deals 6 damage
 - crit deals x1.5 dmg [its range and could be annoying on enemies, so crits get to be mini-crits]
-
+- 60 feet of range [other bows work off of this distance]
 ## Classic Bow
  *A classic, and for a reason. Takes metal bolts but BOY do they hurt.*
 - - requires quiver
@@ -68,3 +74,8 @@ Greatly slows movement when being used, massive damage to compensate [cool combo
 ## Greatsword
  *A two handed greatsword. If you need more of a explanation than that you shouldn't be wielding this.*
 - [reskin of axe? no clue on what to do with this]
+## Heavy Plasma Bow
+ *By increasing overall profile, it allows the bow to hold 2 separate Plasma Cartridges and swap between them on the fly via the flick of a switch, along with greater flight range.*
+ - can hold an additional Plasma Cartridge
+- crit deals x2 dmg [big bow gets a little more damage]
+- 90 feet of range [1.5x]
