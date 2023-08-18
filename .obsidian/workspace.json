@@ -11,8 +11,12 @@
             "id": "474d90ea3dc3e1b3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Goob Lore/Lore Thunking/Ammunition.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Goob Lore/Lore Thunking/Ammunition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Goob Lore/Lore Thunking/Ammunition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Goob Lore/Lore Thunking/Ammunition.md"
+              }
             }
           }
         ]
@@ -140,7 +148,12 @@
   },
   "active": "474d90ea3dc3e1b3",
   "lastOpenFiles": [
+    "Goob Lore/Lore Thunking/Chassis.md",
+    "Goob Lore/Lore Thunking/Encounters.canvas",
+    "Goob Lore/Lore Thunking/List Of Mods.md",
+    "Goob Lore/Lore Thunking/Lore Thinking.canvas",
     "Goob Lore/current bodies/First Body.md",
+    "Goob Lore/Lore Thunking/Equipment.md",
     "Goob Lore/current bodies",
     "Goob Lore/Notable Groups/STDI.md",
     "Goob Lore/Notable Groups/GOO8ER.md",
@@ -154,11 +167,6 @@
     "Goob Lore/Lore Thunking/Weapons.md",
     "Goob Lore/Lore Thunking/Starting Paths.canvas",
     "Goob Lore/Lore Thunking/Persons of interest.canvas",
-    "Goob Lore/Lore Thunking/Equipment.md",
-    "Goob Lore/Lore Thunking/Lore Thinking.canvas",
-    "Goob Lore/Lore Thunking/List Of Mods.md",
-    "Goob Lore/Lore Thunking/Encounters.canvas",
-    "Goob Lore/Lore Thunking/Chassis.md",
     "Goob Lore/Lore Thunking/Ammunition.md",
     "Goob Lore/Lore Thunking",
     "Goob Lore/Background information/Weapons.md",
@@ -189,7 +197,6 @@
     "Lore Thunking/List Of Mods.md",
     "Lore Thunking/Equipment.md",
     "Lore Thunking/Encounters.canvas",
-    "Background information/Ideas.md",
     "current bodies",
     "Lore Thunking/Starting Paths.canvas",
     "Lore Thunking",
