@@ -8,58 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "474d90ea3dc3e1b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore Thunking/Chassis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97abebb49ea728ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "current bodies/First Body.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f8fd0047ce189eb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore Thunking/Equipment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d401dabcfbe12074",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Lore Thunking/Starting Paths.canvas",
-                "viewState": {
-                  "x": -1018.9252947333772,
-                  "y": 122.06173868465245,
-                  "zoom": -0.5145369776431878
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "current bodies/First Body.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "current bodies/First Body.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "current bodies/First Body.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -186,52 +138,61 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97abebb49ea728ba",
+  "active": "f8fd0047ce189eb8",
   "lastOpenFiles": [
+    "Lore Thunking/Weapons.md",
+    "Goob Lore/Notable Groups/STDI.md",
+    "Goob Lore/Notable Groups/GOO8ER.md",
+    "Goob Lore/Notable Groups",
+    "Goob Lore/Notable Charaters/Venti.md",
+    "Goob Lore/Notable Charaters/Ungooliever.md",
+    "Goob Lore/Notable Charaters/The Doctor.md",
+    "Goob Lore/Notable Charaters/Ominous.md",
+    "Goob Lore/Notable Charaters/Noober.md",
+    "Goob Lore/Notable Charaters",
+    "Goob Lore/Lore Thunking/Weapons.md",
+    "Goob Lore/Lore Thunking/Starting Paths.canvas",
+    "Goob Lore/Lore Thunking/Persons of interest.canvas",
+    "Goob Lore/Lore Thunking/Lore Thinking.canvas",
+    "Goob Lore/Lore Thunking/List Of Mods.md",
+    "Goob Lore/Lore Thunking/Equipment.md",
+    "Goob Lore/Lore Thunking/Encounters.canvas",
+    "Goob Lore/Lore Thunking/Chassis.md",
+    "Goob Lore/Lore Thunking/Ammunition.md",
+    "Goob Lore/Lore Thunking",
+    "Goob Lore/current bodies/First Body.md",
+    "Goob Lore/current bodies",
+    "Goob Lore/Background information/Weapons.md",
+    "Goob Lore/Background information/Ideas.md",
+    "Goob Lore/Background information/GOO8 Units.md",
+    "Goob Lore/Background information/Background about the Goobers.md",
+    "Goob Lore/Background information",
+    "Goob Lore/Art/wamfvibe.png",
+    "Goob Lore/Art/vents.png",
+    "Goob Lore/Art/ungy bunga.png",
+    "Goob Lore/Art/penis.png",
+    "Goob Lore/Art/mel.png",
+    "Goob Lore/Art/joober.png",
+    "Goob Lore/Art/jest.png",
+    "Goob Lore/Art/he quiet.png",
+    "Goob Lore/Art/elija.png",
+    "Goob Lore/Art/The Doctor.png",
+    "Goob Lore/Art",
+    "Goob Lore",
+    "untitled folder",
+    "Lore Thunking/Persons of interest.canvas",
+    "Lore Thunking/Starting Paths.canvas",
     "Lore Thunking/Equipment.md",
     "current bodies/First Body.md",
     "current bodies",
-    "Lore Thunking/Starting Paths.canvas",
     "Lore Thunking/Lore Thinking.canvas",
     "Notable Charaters/Ungooliever.md",
-    "Lore Thunking/Persons of interest.canvas",
-    "Art/PC.png",
-    "Art/jest.png",
-    "Art/joober.png",
-    "Art/Joobersilent.png",
-    "Art/karma.png",
-    "Art/he quiet.png",
-    "Art/elija.png",
-    "Art/Ominous.png",
-    "Art/mel.png",
-    "Art/penis.png",
     "Lore Thunking/Ammunition.md",
     "Lore Thunking/Chassis.md",
     "Lore Thunking/List Of Mods.md",
-    "Lore Thunking/Weapons.md",
     "Lore Thunking/Encounters.canvas",
     "Background information/Weapons.md",
     "Notable Groups/GOO8ER.md",
-    "Lore Thunking/Chassies.md",
-    "Notable Groups/STDI.md",
-    "Background information/Ideas.md",
-    "Notable Charaters/Venti.md",
-    "Background information/Background about the Goobers.md",
-    "Background information/GOO8 Units.md",
-    "Notable Charaters/Noober.md",
-    "Notable Charaters/Ominous.md",
-    "Notable Charaters/The Doctor.md",
-    "Notable Groups/STDD.md",
-    "Untitled.md",
-    "Lore Thunking",
-    "Notable Groups/STD.md",
-    "Notable Groups",
-    "Art",
-    "GOO8.md",
-    "Ungooliever.md",
-    "Notable Charaters",
-    "Background information",
-    "Weapons.md",
-    "GOO8 Units.md"
+    "Lore Thunking"
   ]
 }
