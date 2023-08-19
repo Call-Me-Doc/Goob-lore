@@ -29,3 +29,13 @@
 ## Heavy Plate Armor
 *heavy armor made from titanium plating, with natural leathers to back it. restricts movement enough to make it almost impossible to use a bow.*
 - +7 damage resistance, will break after taking 50 damage in a single turn
+
+## Small Repair Kit
+*A small bag filled with basic supplies for repairing GOO- units, infinitely reusable but only capable of repairing minor wounds.*
++ Heals 3 hp as an action, unlimited uses.
+
+## Nanomachine Capsule
+*A small pill containing a couple thousand nanomachines, sold in bottles of five. Its too hard for any human to bite through as a safety precaution, but when crushed in a GOO-'s jaws it releases it's nanomachines into the GOO-'s body to repair damage.*
++ Heals 6 hp as an action, 5 uses, can use multiple in one action.
+
+## 
