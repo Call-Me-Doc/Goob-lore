@@ -6,3 +6,5 @@ because of this, most GOO- units resemble them in one way or another.
 She also is one of the world's best Venti Cosplayers, having gotten 2nd place 17 separate cosplay contests.
 
 She is also in an extremely hostile rivalry with the [[Ungooliever]] due to their opposite ideologies and positions. Has been making progressively more over the top combat robots to defeat them over the years, but these creations have never succeeded.
+
+Has previously made personal use Goobs modeled after Genshin characters. When miHoyo caught wind they partnered to sell copies of these Goobs at exorbitant prices as merch. The money from this was used to fund her cosplaying "hobby."
