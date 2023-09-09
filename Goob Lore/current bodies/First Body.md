@@ -1,6 +1,6 @@
 
 # Stats
-HP: 15 (up to -15)
+HP: 15 (up to -15) Current: 12
 Dexterity: 3 (+0)
 Strength: 3 (+0)
 Perception: 2 (+0)
