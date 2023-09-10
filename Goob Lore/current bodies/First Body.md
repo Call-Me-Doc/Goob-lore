@@ -8,6 +8,8 @@ Smarts: 3 (+0)
 Speech: 4 (+0)
 Willpower: 8 (+0)
 
+Actions: 2
+
 # Mods:
 - 
 
