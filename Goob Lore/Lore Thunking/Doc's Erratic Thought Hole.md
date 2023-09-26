@@ -1,0 +1,8 @@
+- Jean has a mechanic to get rezzed after battle if she loses solo 3 times, just in case the players roll SUPER badly
+- we need like, an overarching goal for Jean to reach towards, otherwise i wont know where to push the plot
+- doc is the only other person other than waffler who knows how to do the hivemind, and ominous doesnt know bc doc shuts the hell up and doesnt say shit
+- venti is roughly 100 years old. she's using highly experimental shit to stay young (she has gone nutso bc of it)
+- Ominous exclusively targets goobers who eat at waffler houses, or work in them, or know who waffler is
+- there's a waffler house outside of the Ominous church to test their faith (one of the main rules is no eating there)
+- spider legs need a desc and mods, maybe they can stab ppl for extra close range dmg, but get upgraded to wall crawling/web throwing? webs would slow/immobilize enemies
+- 
