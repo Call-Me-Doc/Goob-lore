@@ -1,12 +1,14 @@
 
 # Stats
-HP: 15 (up to -15)
+HP: 15 (up to -15) Current: 12
 Dexterity: 3 (+0)
 Strength: 3 (+0)
 Perception: 2 (+0)
 Smarts: 3 (+0)
 Speech: 4 (+0)
 Willpower: 8 (+0)
+
+Actions: 2
 
 # Mods:
 - 
